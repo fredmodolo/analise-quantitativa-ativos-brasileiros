@@ -1,0 +1,5 @@
+Ticker,Retorno acumulado,Retorno anualizado,Volatilidade anualizada,Sharpe Ratio,Maximum Drawdown,Correlação com BOVA11,Beta vs BOVA11
+BOVA11.SA,0.9638,0.1445,0.1829,0.8375,-0.2103,,
+ITUB4.SA,2.1766,0.2601,0.237,1.1045,-0.2376,0.7358,0.9534
+PETR4.SA,6.1946,0.484,0.3147,1.4268,-0.391,0.4955,0.8524
+VALE3.SA,0.2221,0.0409,0.2911,0.2841,-0.3815,0.4922,0.7833
